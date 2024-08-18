@@ -16,8 +16,9 @@ contForm.addEventListener('submit', (e) => {
     const consent = document.querySelector("#checkbox").checked;
 
 
-    const formAlert = document.querySelectorAll(".form-items");
+    const formAlert = document.querySelectorAll("#form-items");
 
+    
 
 });
 
